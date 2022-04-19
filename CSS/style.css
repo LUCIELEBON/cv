@@ -1,0 +1,14 @@
+h1 {
+    color: beige;
+    border: 1px solid rgb(235, 116, 116);
+}
+  p {
+    color:beige;
+  }
+  body {
+    background-color: rosybrown;
+  }
+
+  .photo-lulu{
+    border-radius: 50% 50%;
+  }
